@@ -1,0 +1,13 @@
+{
+	"name": "com.transmedia.debugmenu",
+	"displayName":"Debug Menu",
+	"version": "1.0.0",
+    "unity": "2020.3",
+    "keywords": ["Debug", "Menu"],
+    "category": "Debug",
+	"description": "Debug Menu\n\nCan display a menu containing any static void function without parameters decorated with the [DebugMenu] attribute\n\nSee the examples scenes for the setup of the InputManager and SceneManager to load the Scene 'DebugAdditive' containing the debug menu over your scene.",
+    "dependencies": 
+    {
+        "com.unity.textmeshpro": "3.0.4"
+    }
+}
